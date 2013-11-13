@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CustomerLeads xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BasicCustomerLead.xsd">
+  <CustomerLead>
+    <FirstName>Paul</FirstName>
+    <LastName>Smith</LastName>
+    <Email>psmith@example.com</Email>
+  </CustomerLead>
+  <CustomerLead>
+    <FirstName>Nicole</FirstName>
+    <LastName>Farhi</LastName>
+    <Email>nicole.farhi@example.com</Email>
+  </CustomerLead>
+  <CustomerLead>
+    <FirstName>Raf</FirstName>
+    <LastName>Simons</LastName>
+    <Email>rafs@example.org</Email>
+  </CustomerLead>
+</CustomerLeads>
